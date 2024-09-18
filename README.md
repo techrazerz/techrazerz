@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Wael_ Abdel Moneim</h1>
 <h3 align="center">A Backend engineer from Egypt</h3>
-<img src="https://i.giphy.com/iGpHt2H22k1orjgT9b.webp">
-
+<img src="https://i.giphy.com/iGpHt2H22k1orjgT9b.webp" style="position: relative; left:25%">
+- I'm a Back End Developer
 - 👨‍💻 All of my projects are available at [https://github.com/techrazerz?tab=projects](https://github.com/techrazerz?tab=projects)
 
 - 💬 Ask me about **PHP, JavaScript**
