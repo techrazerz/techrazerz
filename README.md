@@ -18,7 +18,7 @@
 
 - I'm a Back End Developer
 
-- 👨‍💻 All of my projects are available at [https://techrazerz.github.io/techrazerz/](https://techrazerz.github.io/xrazerz/)
+- 👨‍💻 All of my projects are available at [ https://github.com/techrazerz/techrazerz/projects?query=is%3Aopen]([https://techrazerz.github.io/xrazerz/](https://github.com/techrazerz/techrazerz/projects?query=is%3Aopen))
 
 - 💬 Ask me about *PHP, JavaScript*
 
