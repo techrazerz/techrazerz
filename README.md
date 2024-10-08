@@ -22,15 +22,15 @@
 
 - 💬 Ask me about *PHP, JavaScript*
 
-- 📫 How to reach me *xrazerz.dev@gmail.com*
+- 📫 How to reach me *techrazerz.dev@gmail.com*
 
 - 📄 Know about my experiences SOON
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techrazerz" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techrazerz" height="30" width="40" /></a>
-<a href="https://instagram.com/xrootedx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techrazerz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wael-abdel-moneim-7b4927329/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techrazerz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012586534854 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techrazerz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/waelana7/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techrazerz" height="30" width="40" /></a>
 <a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="techrazerz" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="techrazerz" height="30" width="40" /></a>
 </p>
