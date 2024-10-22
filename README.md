@@ -4,7 +4,7 @@
 <h3 align="center">A Backend engineer from Egypt</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&layout=compact&theme=radical" alt="urboifox" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&layout=compact&theme=radical" alt="urboifox" height="165"\>
 </p>
 
 <h3 align="center">
