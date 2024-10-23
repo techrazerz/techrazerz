@@ -4,8 +4,9 @@
 <h3 align="center">A Backend engineer from Egypt</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&layout=compact&theme=radical" alt="urboifox" height="165"\>
+<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://camo.githubusercontent.com/adcf13eb9e75ab80ac343729805ef6b0578059669c86cbbe18747dfc247ab4c3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7872617a65727a266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="urboifox" height="165" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
 </p>
+
 
 <h3 align="center">
   <span>Hey there </span>
@@ -69,7 +70,7 @@
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&layout=compact&theme=radical" alt="urboifox" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=techrazerz&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://camo.githubusercontent.com/adcf13eb9e75ab80ac343729805ef6b0578059669c86cbbe18747dfc247ab4c3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7872617a65727a266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="urboifox" height="165" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=techrazerz&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
 </p>
-  
+
 </details
