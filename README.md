@@ -40,7 +40,7 @@
 
 <div  >
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,ts,laravel,react,webpack,fastapi,npm,postman,redhat,php,atom,git,github,mysql,sass,tailwindcss,stackoverflow,phpstorm,vscode,kali,linux,powershell,wordpress,discord,notion,Redis,python,Netdata,Docker,aws,mongodb,Jenkins,DDD,Firebase,jQuery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,ts,laravel,react,webpack,fastapi,npm,postman,redhat,php,atom,git,github,mysql,sass,tailwindcss,stackoverflow,phpstorm,vscode,kali,linux,powershell,wordpress,discord,notion,python,aws,mongodb)](https://skillicons.dev)
 <br/>
 
 </div>
