@@ -20,7 +20,7 @@
 - I'm a Back End Developer
 
 - 👨‍💻 All of my projects are available at  [https://github.com/techrazerz?tab=projects](https://github.com/techrazerz?tab=projects)
-- 💬 Ask me about *PHP, JavaScript*
+- 💬 Ask me about *C++,C#,.NET*
 
 - 📫 How to reach me *techrazerz.dev@gmail.com*
 
